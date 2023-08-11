@@ -24,6 +24,7 @@ arrow-row = { version = "46" }
 arrow-schema = { version = "46" }
 arrow-select = { version = "46" }
 parquet = { version = "46" }
+object_store = { version = "0.7.0" }
 
 # datafusion
 datafusion = { version = "31" }
